@@ -1,2 +1,2 @@
 # oop_beadando_projekt
-teszt
+Objektumorientált programozás - projekt feladat
